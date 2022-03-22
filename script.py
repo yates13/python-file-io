@@ -28,8 +28,8 @@ def Darwin(string, object, ln):
     ------
 
     Example
-    467 inheritance
-
+    471     Inheritance
+    660     inherited
     """
     print('Opening origin.txt')
     with open('origin.txt', 'r') as in_stream:
